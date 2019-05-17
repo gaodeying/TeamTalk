@@ -5,7 +5,7 @@
 
 # setup php
 
-PHP=php-5.6.6
+PHP=php-7.1.29
 PHP_DOWNLOAD_PATH=http://cn2.php.net/distributions/$PHP.tar.gz
 INSTALL_DIR=/usr/local/php5
 
